@@ -1,8 +1,6 @@
 # Mirexa AI Chat
 
 [![Official App](https://img.shields.io/badge/Mirexa-Launch%20App-blueviolet?logo=vercel&style=flat-square)](https://mirexa.vercel.app)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/withthatway/mirexa-project/blob/main/LICENSE)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/withthatway/mirexa-project?style=flat-square)](https://github.com/withthatway/mirexa-project/stargazers)
 [![Powered by Pollinations](https://img.shields.io/badge/API%20by-Pollinations.ai-orange?style=flat-square)](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md)
 
 [![Mirexa AI Chat](https://github.com/withthatway/withthatway/blob/855c97508a44b51fe4aa77fb84e394605097c99e/assets/thumbnail_page_of_mirexa_ai.png?raw=true)](https://mirexa.vercel.app)
