@@ -2,6 +2,7 @@
 
 [![Official App](https://img.shields.io/badge/Mirexa-Launch%20App-blueviolet?logo=vercel&style=flat-square)](https://mirexa.vercel.app)
 [![Powered by Pollinations](https://img.shields.io/badge/API%20by-Pollinations.ai-orange?style=flat-square)](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md)
+[![Contact Email](https://img.shields.io/badge/Email-zrezata@gmail.com-blue?logo=gmail&style=flat-square)](mailto:zrezata@gmail.com)
 
 [![Mirexa AI Chat](https://github.com/withthatway/withthatway/blob/855c97508a44b51fe4aa77fb84e394605097c99e/assets/thumbnail_page_of_mirexa_ai.png?raw=true)](https://mirexa.vercel.app)
 
