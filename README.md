@@ -1,4 +1,4 @@
-# Mirexa.AI
+# Mirexa AI Chat
 
 [![Official App](https://img.shields.io/badge/Mirexa-Launch%20App-blueviolet?logo=vercel&style=flat-square)](https://mirexa.vercel.app)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/withthatway/mirexa-project/blob/main/LICENSE)
