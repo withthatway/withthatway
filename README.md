@@ -5,7 +5,7 @@
 [![GitHub Repo Stars](https://img.shields.io/github/stars/withthatway/mirexa-project?style=flat-square)](https://github.com/withthatway/mirexa-project/stargazers)
 [![Powered by Pollinations](https://img.shields.io/badge/API%20by-Pollinations.ai-orange?style=flat-square)](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md)
 
-[![Mirexa AI Chat](https://github.com/withthatway/withthatway/blob/4fecaa5562a1e0756d2c8e7c48fbfdd0133cefe4/assets/mirexa-thumbnail-page.png?raw=true)](https://mirexa.vercel.app)
+[![Mirexa AI Chat](https://github.com/withthatway/withthatway/blob/855c97508a44b51fe4aa77fb84e394605097c99e/assets/thumbnail_page_of_mirexa_ai.png?raw=true)](https://mirexa.vercel.app)
 
 **Mirexa** is a free and unlimited all-in-one AI service with **no login** and **no subscription** required.  
 
