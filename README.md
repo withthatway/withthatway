@@ -15,7 +15,7 @@ AI tools shouldn't be gated. I build things that make advanced AI accessible to 
 
 ## 🎨 URVILLAIN Imagine
 
-![URVILLAIN Imagine](https://user.uploads.dev/file/ec843238ff60f09361e3f03e223c5bec.jpg)
+![URVILLAIN Imagine](https://user.uploads.dev/file/fedcc0c06ebe603af872ef2aa438ca78.png)
 
 Generate as many images as you want — no account, no credits, no limits. I built URVILLAIN Imagine so anyone can create realistic and anime-style art instantly using Flux Schnell. Pick your style, describe what you want, and it's yours. No censorship, a lot of customization, completely free.
 
