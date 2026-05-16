@@ -7,7 +7,7 @@
 AI tools shouldn't be gated. I build things that make advanced AI accessible to everyone — free, unrestricted, no sign-ups required.
 
 [![Hosted on Perchance](https://img.shields.io/badge/Hosted%20on-Perchance-00E5C3?style=flat-square)](https://perchance.org/withthatway)
-[![Part of Pollinations AI](https://img.shields.io/badge/Part%20of-Pollinations%20AI-5B6EF5?style=flat-square)](https://pollinations.ai)
+[![Powered by Pollinations AI](https://img.shields.io/badge/Powered%20by-Pollinations%20AI-5B6EF5?style=flat-square)](https://pollinations.ai)
 
 </div>
 
@@ -47,6 +47,6 @@ If any of this has been useful to you, a coffee goes a long way toward keeping i
 
 <div align="center">
 
-**[WithThatWay](https://perchance.org/withthatway)** · Hosted on [Perchance](https://perchance.org) · Part of [Pollinations AI](https://pollinations.ai)
+**[WithThatWay](https://perchance.org/withthatway)** · Hosted on [Perchance](https://perchance.org) · Powered by [Pollinations AI](https://pollinations.ai)
 
 </div>
