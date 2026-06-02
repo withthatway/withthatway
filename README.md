@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user.uploads.dev/file/dbafd6d2dd0250dc422200f98a04cde3.png" width="72" height="72" alt="WithThatWay logo"/>
+<img src="https://user.uploads.dev/file/ba949c37f8a676bfc07ac1bdd1241c66.jpg" width="72" height="72" alt="WithThatWay logo"/>
 
 # WithThatWay Project
 
