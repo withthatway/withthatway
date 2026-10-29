@@ -24,7 +24,7 @@ Generate as many images as you want — no account, no credits, no limits. I bui
 
 ## 💬 URV AI Chat
 
-![URV AI Chat](https://user.uploads.dev/file/baae505d879ccc4b3e68a5f157bff19d.jpg)
+![URV AI Chat](https://user.uploads.dev/file/0e96d9cef0ead4d8644565a1f9244b5c.jpg)
 
 Build your world and talk with your characters in URV AI Chat. Create unlimited characters, give them a personality, a backstory — and just talk. No filter getting in the way of your story. You can also import your SillyTavern characters directly, so nothing you've built goes to waste. Multiple LLMs to choose from, image generation built in, and it's all free.
 
